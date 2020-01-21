@@ -1,3 +1,7 @@
 a poem about things
 it is an axample
 it is also a text file
+
+use edit to change things in file
+each save can have a note to it
+this is save number 2
